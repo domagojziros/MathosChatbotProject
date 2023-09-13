@@ -2,7 +2,7 @@ from llama_index import StorageContext, load_index_from_storage
 import openai
 
 # Set up OpenAI API credentials
-openai.api_key = "YOUR_API_KEY"
+openai.api_key = "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"
 
 kadrovi = {
     "name": "kadrovi",
